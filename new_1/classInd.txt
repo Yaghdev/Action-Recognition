@@ -1,0 +1,8 @@
+1 LockHands
+2 MovetheTable
+3 RollyPolly
+4 Tapping
+5 Touchhead
+6 Touchnose
+7 Touchear
+8 Armsup
